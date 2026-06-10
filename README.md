@@ -33,7 +33,7 @@ O projeto simula um sistema de rastreamento de equipamentos, módulos e suprimen
 Link YOUTUBE:
 
 ```bash
-git clone https://github.com/lzFelipee/GS1_Physical-Computing
+https://youtu.be/SsNGR8tx8tY
 ```
 
 ## Instalação
